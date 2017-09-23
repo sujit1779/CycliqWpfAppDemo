@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CycliqWpfAppDemo", "CycliqW
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{D2DF7AF8-224B-4068-A090-15DE4084D496}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{2146E3FD-00A7-4B11-BD84-27E4291A3EEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{7EA340B9-E271-4090-BFF8-97C09F020F5E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D2DF7AF8-224B-4068-A090-15DE4084D496}.Debug|Any CPU.ActiveCfg = Debug
 		{D2DF7AF8-224B-4068-A090-15DE4084D496}.Release|Any CPU.ActiveCfg = Release
+		{2146E3FD-00A7-4B11-BD84-27E4291A3EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2146E3FD-00A7-4B11-BD84-27E4291A3EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2146E3FD-00A7-4B11-BD84-27E4291A3EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2146E3FD-00A7-4B11-BD84-27E4291A3EEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
